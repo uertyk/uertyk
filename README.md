@@ -4,4 +4,4 @@ I'm uertyk_, the developer and CEO of xl universe; programmer on html+css(only o
 ## I`m these teams
 - 0mods (Web. dev.)
 - [xl universe (CEO)](https://xluniverse.ru)
-<img url="https://raw.githubusercontent.com/uertyk/uertyk/refs/heads/main/lastxlsumer0001.png">
+![myfriends](https://raw.githubusercontent.com/uertyk/uertyk/refs/heads/main/lastxlsumer0001.png)
