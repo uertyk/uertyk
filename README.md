@@ -1,11 +1,12 @@
 ## Hey 👏
 > I`m CEO of xl universe and developer of 0mods team.
 ## 🌺 My coding languages:
-| Nuxt.js | Discord |
-|-------|-------|
-| CSS | discord.py |
-| html | PostSQL |
-| js | discord.js |
+| Nuxt.js develop | Discord bots | Telegram bots |
+|-------|-------|-------|
+| CSS | discord.py | aiogram |
+| html | PostSQL | PostSQL |
+| js | discord.js | python |
+(html + CSS; js; python; md and mdx)
 
 ### My stats
 | GitHub | Discord |
