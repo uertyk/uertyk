@@ -6,6 +6,7 @@
 | CSS | discord.py | aiogram |
 | html | PostSQL | PostSQL |
 | js | discord.js | python |
+
 (html + CSS; js; python; md and mdx)
 
 ### My stats
